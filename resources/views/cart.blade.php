@@ -11,4 +11,4 @@
 
     </div>
 </div>
-<!-- //cart details -->
+<!-- //cart details --> 
