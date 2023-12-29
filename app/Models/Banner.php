@@ -10,6 +10,6 @@ class banner extends Model
     use HasFactory;
     protected $fillable=[
         'noiDung',
-        'image'
+        'image' 
     ];
 }
