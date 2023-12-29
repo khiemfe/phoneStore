@@ -1,3 +1,6 @@
+- A mobile phone store is a convenient place for customers to find the perfect phone for their needs. It offers add, delete, and edit features that allow sellers to customize their app easily.
+- Here are the details of the Laravel framework:
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
